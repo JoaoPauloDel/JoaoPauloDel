@@ -21,8 +21,6 @@
 
 
 ---
-
-## 📫 Como me encontrar
 ## 📫 Como me encontrar
 [LinkedIn](https://www.linkedin.com/in/joaopaulodel/) • [E-mail](mailto:joaopaulodelvecchio@gmail.com) 
 
