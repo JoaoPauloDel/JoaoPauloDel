@@ -13,22 +13,12 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-
----
 
 ## 🌱 Atualmente aprendendo
 - Desenvolvimento de aplicações **Web com HTML5, CSS E JavaScript**  
 - **Inteligência Artificial** e Machine Learning  
 - Boas práticas de **arquitetura de software**  
 
----
-
-## 🚀 Projetos em Destaque
-- [📱 App de Academia](https://github.com/<seu-usuario>/<repo>) – Aplicativo Android para treinos e acompanhamento.  
-- [📊 Dashboard de Dados](https://github.com/<seu-usuario>/<repo>) – Visualização interativa de dados em Python.  
-- [🤖 Chatbot IA](https://github.com/<seu-usuario>/<repo>) – Assistente virtual com processamento de linguagem natural.  
 
 ---
 
