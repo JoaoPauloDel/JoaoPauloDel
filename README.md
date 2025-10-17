@@ -24,8 +24,9 @@
 💡 Acredito que a computação é a chave para transformar ideias em soluções reais para o mundo.
 
 ### 📫 Como me encontrar :
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulodel/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:joaopaulodelvecchio@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulodel/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joaopaulodelvecchio@gmail.com&su=Contato%20via%20GitHub&body=Oi%2C%20SENHOR%20BIGA%20BIGA_NEM!)
 
+                                                                                                                                          
 ---
 
 ## Tecnologias & Ferramentas
