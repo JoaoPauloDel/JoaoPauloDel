@@ -34,7 +34,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
-• [Projeto finalizado recente] (https://projeto-landingpage.onrender.com/)
+## 🚀 Projeto Recentemente Finalizado
+> **Landing Page - Cafeteria**
+> 
+🌐 **Deploy:** [Acessar Landing Page](https://projeto-landingpage.onrender.com)  
+💻 **Código:** [Repositório no GitHub](https://github.com/JoaoPauloDel/projeto-landingpage)
+
 ---
 <div style="text-align: center;">
   <picture>
