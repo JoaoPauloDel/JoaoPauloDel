@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/JoaoPauloDel?label=SEGUIDORES&style=for-the-badge&logo=github&labelColor=2A2A2A">
+</p>
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
 
