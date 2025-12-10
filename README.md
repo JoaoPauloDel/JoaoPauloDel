@@ -1,5 +1,6 @@
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=JoaoPauloDel&label=VISITAS&style=for-the-badge&color=6C63FF" />
   <img src="https://img.shields.io/github/followers/JoaoPauloDel?label=SEGUIDORES&style=for-the-badge&logo=github&labelColor=2A2A2A">
 </p>
 <!-- Header Wave -->
