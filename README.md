@@ -21,7 +21,7 @@
 🤖👨‍💻💻
 
 ### Sobre mim:
-➕ Desenvolvimento de aplicações Web com HTML5, CSS E JavaScript com react e tailwind  
+➕ Desenvolvimento de aplicações Web com react e tailwind  
 ➕ Inteligência Artificial e Machine Learning  
 ➕ Boas práticas de arquitetura de software  
 🎓 Estudante de Ciência da Computação apaixonado por tecnologia, desenvolvimento e inovação.  
