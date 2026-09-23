@@ -1,27 +1,25 @@
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=JoaoPauloDel&label=VISITAS&style=for-the-badge&color=6C63FF" />
   <img src="https://img.shields.io/github/followers/JoaoPauloDel?label=SEGUIDORES&style=for-the-badge&logo=github&labelColor=2A2A2A">
 </p>
+
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
 
 <!-- Header Animation -->
 <div align="center">
-<h1>
-    Olá, sou o João Paulo Del 👋
-</h1>
- 
+  <h1>Olá, sou o João Paulo Del 👋</h1>
   
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Desenvolvedor+Web;Estudante;+Decicado⚡)](#link)
+  <a href="#link">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Desenvolvedor+Web;Estudante;+Dedicado⚡" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- Hero Image -->
 🤖👨‍💻💻
 
 ### Sobre mim:
-➕ Desenvolvimento de aplicações Web com react e tailwind  
+➕ Desenvolvimento de aplicações Web com React e Tailwind CSS  
 ➕ Inteligência Artificial e Machine Learning  
 ➕ Boas práticas de arquitetura de software  
 🎓 Estudante de Ciência da Computação apaixonado por tecnologia, desenvolvimento e inovação.  
@@ -29,17 +27,30 @@
 💡 Acredito que a computação é a chave para transformar ideias em soluções reais para o mundo.
 
 ### 📫 Como me encontrar :
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopaulodel/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=joaopaulodelvecchio@gmail.com&su=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo%20Del)
 
-                                                                                                                                          
+<!-- No GitHub, segurar Ctrl / Cmd ou clicar com o botão do meio no badge força a nova aba, mas formatado como âncora inline costuma funcionar em clientes de visualização -->
+<a href="https://www.linkedin.com/in/joaopaulodel/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&to=joaopaulodelvecchio@gmail.com&su=Contato%20via%20GitHub&body=Ol%C3%A1%2C%20Jo%C3%A3o%20Paulo%20Del" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white" /></a>
+
 ---
 
 ## Tecnologias & Ferramentas
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-<div style="text-align: center;">
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/otaviossousa/otaviossousa/blob/output/github-snake.svg" />
@@ -49,7 +60,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=28&center=true&vCenter=true&width=600&height=70&lines=Obrigado+!++Até+mais👋." alt="Typing text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=28&center=true&vCenter=true&width=600&height=70&lines=Obrigado+!++At%C3%A9+mais%F0%9F%90%8B." alt="Typing text" />
 </p>
 
 ![footer gradient](https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:4B0082&height=65&section=footer&fontColor=ffffff)
