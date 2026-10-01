@@ -1,8 +1,7 @@
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=JoaoPauloDel&label=VISITAS&style=for-the-badge&color=6C63FF" />
-  <img src="https://img.shields.io/github/followers/JoaoPauloDel?label=SEGUIDORES&style=for-the-badge&logo=github&labelColor=2A2A2A">
+  <img src="https://komarev.com/ghpvc/?username=JoaoPauloDel&label=VISUALIZAÇÕES&style=for-the-badge&color=6C13D6" />
+  <img src="https://img.shields.io/github/followers/JoaoPauloDel?label=SEGUIDORES&style=for-the-badge&logo=github&logoColor=white&labelColor=2A2A2A" />
 </p>
-
 <!-- Header Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6B13D6&height=120&section=header"/>
 
